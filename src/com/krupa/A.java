@@ -21,6 +21,7 @@ interface B extends A{
 interface C extends B{
 	//Inheriting functional Interface
 	//Abstract method 
+	//methods
 	void method3();
 	
 }
